@@ -50,3 +50,24 @@ I tried three different models:
 ![alt text](https://github.com/hariranjanmeena/EMAIL-SMS-Spam-Classifier/blob/4888481602e5675b446f11f4f59c6f29e832f910/images/Aglo's.PNG)
 
 ![alt text](https://github.com/hariranjanmeena/EMAIL-SMS-Spam-Classifier/blob/4888481602e5675b446f11f4f59c6f29e832f910/images/alog_graph.PNG)
+
+
+
+## Deployed Application on Heroku
+
+#### [Herokuapp WEB APP](https://spam-sms-email-classifier.herokuapp.com/)
+
+![alt text](https://github.com/hariranjanmeena/EMAIL-SMS-Spam-Classifier/blob/1f59098ea4bd68843b2747f1ae75d5eac4d99f20/images/deployed.PNG)
+
+Try out example : 
+
+- Payment Protection Insurance (PPI)
+  - IMPORTANT - You could be entitled up to £3,160 in compensation from mis-sold PPI on a credit card or loan. Please reply PPI for info or STOP to opt out.
+- Quick Loans
+  - A [redacted] loan for £950 is approved for you if you receive this SMS. 1 min verification & cash in 1 hr at www [redacted].co.uk to opt out reply stop
+- Accident compensation
+  - You have still not claimed the compensation you are due for the accident you had. To start the process please reply YES. To opt out text STOP
+- Debt forgiveness
+  - Due to a new legislation, those struggling with debt can now apply to have it written off. For more information text the word INFO or to opt out text STOP
+- Pension reviews
+  - Our records indicate your Pension is under performing to see higher growth and up to 25% cash release reply PENSION for a free review. To opt out reply STOP
