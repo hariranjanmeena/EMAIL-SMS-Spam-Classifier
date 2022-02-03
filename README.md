@@ -11,7 +11,7 @@ Data is a set of SMS tagged messages that have been collected for SMS Spam resea
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
 pip install -r requirements.txt
