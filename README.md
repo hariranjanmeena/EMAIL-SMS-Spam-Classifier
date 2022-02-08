@@ -41,11 +41,12 @@ pip install -r requirements.txt
 ## Wordcloud
 
 
-![alt text](https://github.com/hariranjanmeena/EMAIL-SMS-Spam-Classifier/blob/4888481602e5675b446f11f4f59c6f29e832f910/images/Aglo's.PNG)
+![alt text](https://github.com/hariranjanmeena/EMAIL-SMS-Spam-Classifier/blob/90ffed680f39cda4d5f75a68b3e506dbce6baf19/images/Capture.PNG)
 
 ## Model Building 
   
-I tried three different models:
+I tried different models:
+- Best model - MultinomialNB with TfidfVectorizer
 
 ![alt text](https://github.com/hariranjanmeena/EMAIL-SMS-Spam-Classifier/blob/4888481602e5675b446f11f4f59c6f29e832f910/images/Aglo's.PNG)
 
